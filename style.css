@@ -1,10 +1,15 @@
 .con {
 	text-align:center;
+
 }
 .con2 {
 	text-align:center;
+	
 }
 body{
 	background-color: #90EE90;
 	
+}
+#1{
+	display: flex;
 }
