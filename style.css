@@ -22,16 +22,13 @@ body{
 	overflow-x: hidden;
 	opacity: 1;
 	padding: 0;
+	justify-content: center;
 	
 	
 }
 #1{
-	display: -webkit-flex;
-	display: -ms-flex;
+
 	display: flex;
-	-ms-align-items: center;
-	align-items: center;
-	justify-content: space-between;
-	text-align: center;
+	
 
 }
