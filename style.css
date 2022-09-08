@@ -2,9 +2,12 @@
 img{
 	max-width: 100%;
 }
+
 .con {
 		text-align: center;
+
 }
+
 body{
 	background-color: #90EE90;
 	margin: 0;
@@ -12,5 +15,5 @@ body{
 	width: 100%;
 	display: flex;
 	text-align: center;
-	justify-content: center;	
+	justify-content: center;
 }
